@@ -41,7 +41,8 @@ body div#toolbar.toolbar {
 }
 
 #admin-menu .dropdown a {
-  color: #fafafa;
+  color: #333;
+  text-shadow:1px 1px 1px #fff;
 }
 
 /* Remove border from all lists and actions */

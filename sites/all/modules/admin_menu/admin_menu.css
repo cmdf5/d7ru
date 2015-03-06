@@ -17,7 +17,7 @@
   text-align: left;
   top: 0;
   width: 100%;
-  box-shadow:inset 0 7px 20px #fff, 0 1px 1px #999 !important;
+  box-shadow:inset 0 10px 25px #fff, 0 1px 1px #999 !important;
 }
 #admin-menu-wrapper {
   overflow: hidden;
@@ -79,7 +79,7 @@ body.admin-menu {
 }
 #admin-menu .dropdown li li a {
   border-right: none; /* LTR */
-  border-top: 1px solid #323232;
+  border-top: 1px solid #ccc;
 }
 
 /* All list items */
@@ -92,15 +92,23 @@ body.admin-menu {
   margin: 0 !important;
   padding: 0;
 }
+.admin-menu-icon {
+ background:#999;
+}
+.admin-menu-icon a span {
+ display:inline-block;
+ background:#999;
+ margin:4px 2px !important;
+}
 #admin-menu .dropdown .admin-menu-tab {
   background: url(images/bkg_tab.png) repeat-x left bottom;
   padding-bottom: 1px;
 }
 #admin-menu .dropdown li li {
-  background: #202020;
-  filter: Alpha(opacity=88);
+  background: #f0f0f0;
+  filter: Alpha(opacity=95);
   float: none;
-  opacity: 0.88;
+  opacity: 0.95;
   width: 160px; /* Required for Opera */
 }
 #admin-menu .dropdown li li li {
@@ -117,7 +125,9 @@ body.admin-menu {
   line-height: 1.2em;
   margin: 0;
   position: absolute;
-  width: 160px;
+  width: 162px;
+  border:1px solid #ccc;
+  border-top:0;
 }
 
 /* Third-and-above-level lists */
@@ -148,27 +158,28 @@ body.admin-menu {
 
 /* Second-and-more-level hovering */
 #admin-menu .dropdown li li.expandable {
-  background: #45454A url(images/arrow.png) no-repeat 145px 6px;
+  background: #f0f0f0;
 }
 #admin-menu .dropdown li li:hover {
-  background-color: #111;
+  background-color: #ddd;
 }
 #admin-menu .dropdown li li:hover a,
 #admin-menu .dropdown li li:hover li:hover a,
 #admin-menu .dropdown li li:hover li:hover li:hover a {
-  color: #FFF;
+  color: #333;
+  text-shadow:none
 }
 #admin-menu .dropdown li li.expandable:hover a,
 #admin-menu .dropdown li li.expandable:hover li.expandable:hover a {
-  border-color: #444;
-  color: #EEE;
+  border-color: #ccc;
+  color: #333;
 }
 #admin-menu .dropdown li li.expandable:hover li a,
 #admin-menu .dropdown li li.expandable:hover li.expandable:hover li a {
-  border-color: #323232;
+  border-color: #ccc;
 }
 #admin-menu .dropdown li li:hover li a {
-  color: #EEE;
+  color: #333;
 }
 
 /* Search form */

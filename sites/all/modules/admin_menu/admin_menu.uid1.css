@@ -5,7 +5,5 @@
  */
 
 #admin-menu li.admin-menu-account > a {
-  background:#f9f9f9;
-  border-left:1px solid #e9e9e9!important;
-  border-right:1px solid #e9e9e9!important;
+  background: #911 url(images/bkg-red.png) bottom left repeat-x;
 }

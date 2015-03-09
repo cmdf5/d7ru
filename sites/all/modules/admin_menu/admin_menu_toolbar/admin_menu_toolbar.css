@@ -78,6 +78,10 @@ body div#toolbar.toolbar {
   background: #fafafa;
   color:#222;
 }
+.admin-menu-icon a.active-trail{
+	background:#999 !important;
+	padding-top:4px !important;
+}
 #admin-menu .dropdown .admin-menu-toolbar-category > a:hover {
   background: #fff;
 }

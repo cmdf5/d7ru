@@ -1,16 +1,16 @@
-# Webalizer V2.01-10 Incremental Data - 03/05/2015 16:27:50
-2015 3 5 16 27 50
-157 95 3 20 13 4 1370428 155 4 0 0 0
-3 1 79 5 5
+# Webalizer V2.01-10 Incremental Data - 03/09/2015 11:38:18
+2015 3 9 11 38 18
+824 630 7 89 60 5 6034404 821 18 0 0 0
+1 33 271 5 9
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 157 95 1370428 3 155 4 0 0
-0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0
-0 0 0 0 0 0 0 0
+621 496 4425944 1 620 6 0 0
+9 9 18538 2 9 5 0 0
+1 1 2061 1 1 1 0 0
+36 29 217433 1 36 2 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
@@ -43,24 +43,24 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 9 4 6620 8 0 0
-66 42 1213309 66 0 0
-79 48 145109 79 0 0
-2 0 476 1 0 0
+146 90 1369080 146 0 0
+386 300 2391127 385 0 0
+169 134 1544118 168 0 0
+90 84 595789 90 0 0
+19 13 114515 19 0 0
+0 0 0 0 0 0
+2 2 6974 2 0 0
+2 2 4120 2 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-0 0 0 0 0 0
-1 1 4914 1 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
+1 1 2061 1 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0
 0
 0
-95
+630
 0
 0
 0
@@ -69,16 +69,16 @@
 0
 0
 9
-34
+122
 0
-2
-0
-0
+38
 0
 0
 0
-8
-2
+0
+0
+13
+5
 0
 0
 0
@@ -99,72 +99,220 @@
 0
 0
 # -urls- 
+/p.php
+0 3 0 16331 0 0 0 0
+/
+0 49 0 197420 7 3 0 0
 /d7/admin/index
 0 2 0 8916 0 0 0 0
+/admin
+0 4 0 18640 0 0 0 0
 /d7/admin/dashboard
 0 1 0 3038 0 0 0 0
+/admin/people/permissions/roles
+0 7 0 37724 0 0 0 0
+/admin/reports/updates/settings
+0 1 0 7313 0 0 0 0
 /d7/install.php
 0 53 0 110922 1 0 0 0
+/admin/appearance/update
+0 2 0 12328 0 0 0 0
+/admin/config/people/accounts
+0 3 0 39572 0 0 0 0
 /phpmyadmin/
 0 4 0 9489 0 0 0 0
+/admin/structure/block
+0 3 0 20866 0 0 0 0
 /d7/admin/config/regional/language
 0 2 0 5145 0 0 0 0
+/js/admin_menu/cache/9ea8565368bb56b18ada8df38a2e2e60
+0 1 0 3223 0 0 0 0
+/admin/config/administration/admin_menu
+0 2 0 22753 0 0 0 0
+/admin/content
+0 9 0 55284 0 0 0 0
+/admin/structure/menu
+0 1 0 6610 0 0 0 0
 /d7/admin/config/regional
 0 1 0 2566 0 0 0 0
+/authorize.php
+0 24 0 20117 0 0 0 0
 /d7/admin/config
 0 5 0 17401 0 0 0 0
 /d7/admin/config/regional/settings
 0 3 0 32451 0 0 0 0
+/admin/config/content-views
+0 5 0 36912 0 1 0 0
+/admin/appearance/settings/bartik
+0 2 0 20551 0 0 0 0
+/admin/dashboard/drawer
+0 2 0 1184 0 0 0 0
+/js/admin_menu/cache/5f0bf17a954d019827b240a103e76e9f
+0 7 0 3214 0 0 0 0
+/js/admin_menu/cache/4e0329430f10a19c2d48ac050d786dd8
+0 3 0 3314 0 0 0 0
+/admin/people/permissions/roles/edit/3
+0 1 0 3440 0 0 0 0
+/admin/structure
+0 3 0 15860 0 0 0 0
 /d7/admin/settings/language
 0 1 0 2608 0 0 0 0
+/admin/config/regional
+0 1 0 5500 0 0 0 0
 /phpmyadmin/js/messages.php
 0 4 0 139556 0 0 0 0
+/admin/config/search/search_api
+0 3 0 17860 0 0 0 0
+/js/admin_menu/cache/f56f171c9e78d1b97e7ecc9a226d96f1
+0 14 0 3544 0 1 0 0
+/admin/people
+0 7 0 67376 0 0 0 0
+/admin/config/search/clean-urls/check
+0 3 0 45 0 0 0 0
 /phpmyadmin/js/get_scripts.js.php
 0 3 0 929479 0 0 0 0
+/locale/translated
+0 1 0 11913 0 0 0 0
+/js/admin_menu/cache/dda877ed822aea8aa6a5ad961e7cc6c6
+0 1 0 3235 0 0 0 0
+/overlay-ajax/page_bottom
+0 2 0 4014 0 0 0 0
 /d7/
 0 2 0 3753 1 1 0 0
+/admin/config
+0 15 0 140159 0 0 0 0
+/admin/reports/status
+0 7 0 76727 0 0 0 0
 /d7/admin
 0 2 0 4851 0 0 0 0
+/user/1
+0 1 0 5422 0 0 0 0
+/js/admin_menu/cache/eecf1199349b7ebfd422d07e74cba7de
+0 2 0 3206 0 0 0 0
+/admin/structure/block/manage/system/powered-by/configure
+0 4 0 24616 0 0 0 0
 /d7/admin/reports/status
 0 1 0 3839 0 0 0 0
+/js/admin_menu/cache/22d90a30202b54144c13622bee0e9ac6
+0 75 0 255888 0 1 0 0
+/node/add
+0 2 0 6227 0 0 0 0
+/user/1/edit
+0 1 0 11069 0 0 0 0
 /phpmyadmin/js/whitelist.php
 0 3 0 6555 0 0 0 0
+/batch
+0 7 0 138674 0 0 0 0
+/user
+0 1 0 2432 0 0 0 0
+/admin/reports/updates
+0 1 0 7200 0 0 0 0
+/pi.php
+0 4 0 144 0 0 0 0
+/admin/modules
+0 34 0 1269433 1 1 0 0
+/admin/config/development/performance
+0 2 0 15488 1 0 0 0
+/js/admin_menu/cache/f0f22d44f9f0b28c2d67a99a54ae34fc
+0 6 0 7108 0 0 0 0
+/admin/dashboard/configure
+0 1 0 5096 0 0 0 0
+/admin/structure/types
+0 1 0 6660 0 0 0 0
+/admin/appearance
+0 22 0 159661 0 0 0 0
+/admin/appearance/settings
+0 5 0 41750 0 0 0 0
 /d7/admin/config/regional/date-time
 0 1 0 3435 0 0 0 0
+/admin/config/people/accounts/fields
+0 1 0 10960 0 0 0 0
+/admin/appearance/settings/bootstrap
+0 77 0 1207516 0 0 0 0
+/admin/modules/update
+0 1 0 6012 0 0 0 0
+/js/admin_menu/cache/e91350961a44043d45c81bee25fba2c4
+0 2 0 3284 0 0 0 0
 /phpmyadmin/js/get_image.js.php
 0 3 0 3624 0 0 0 0
 /nr
 0 1 0 4914 1 0 0 0
+/admin/reports/updates/update
+0 1 0 6020 0 0 0 0
+/search/node/роли
+0 1 0 6299 0 0 0 0
+/admin/config/people
+0 2 0 8756 0 0 0 0
+/node
+0 10 0 93656 1 0 0 0
+/admin/config/people/accounts/display
+0 1 0 7738 0 0 0 0
+/js/admin_menu/cache/ab9e36636208bee3558bdd63af83d96d
+0 7 0 7108 0 0 0 0
+/admin/config/development/jquery_update
+0 4 0 27580 0 1 0 0
 /phpmyadmin/phpmyadmin.css.php
 0 3 0 63834 0 0 0 0
+/admin/people/permissions
+0 5 0 85231 0 0 0 0
+/install.php
+0 58 0 138730 0 0 0 0
+/admin/config/media/file-system
+0 1 0 7094 0 0 0 0
+/admin/config/development/logging
+0 1 0 6851 0 0 0 0
+/admin/reports
+0 4 0 22511 0 0 0 0
+/locale
+0 1 0 7610 0 0 0 0
+/admin/help
+0 2 0 8273 0 0 0 0
+/l10n_client/save
+0 1 0 861 0 0 0 0
+/admin/modules/install
+0 17 0 84004 2 1 0 0
+/admin/dashboard
+0 17 0 73946 1 0 0 0
 /d7/admin/config/search/clean-urls/check
 0 2 0 30 0 0 0 0
+/js/admin_menu/cache/b20edef6a869a89eda3dbc1e35046c96
+0 2 0 3300 0 0 0 0
 # End Of Table - urls
 # -sites- (monthly)
 89.151.134.199
 0 1 1 4914 1 1425572870
-/nr 0 0
+- 0 0
+79.133.158.22
+0 8 8 16478 4 1425759963
+- 0 0
 95.81.213.36
-0 154 94 1365044 2 1425557603
-/d7/ 0 0
+0 775 590 5790988 8 1425653793
+- 0 0
+141.8.189.114
+0 1 1 2061 1 1425834839
+- 0 0
+141.8.189.115
+0 1 1 2060 1 1425745711
+- 0 0
+95.81.201.235
+0 36 29 217433 2 1425901098
+/admin/modules 0 0
 213.88.59.165
 0 2 0 470 1 1425551496
 - 0 0
 # End Of Table - sites (monthly)
 # -sites- (daily)
-89.151.134.199
-0 1 1 4914 1 1425572870
-/nr 0 0
-95.81.213.36
-0 154 94 1365044 2 1425557603
-/d7/ 0 0
-213.88.59.165
-0 2 0 470 1 1425551496
-- 0 0
+95.81.201.235
+0 36 29 217433 2 1425901098
+/admin/modules 0 0
 # End Of Table - sites (daily)
 # -referrers- 
 - (Direct Request)
-0 48
+0 91
+http://sf2.comf5.ru/admin/config/regional
+1 1
+http://sf2.comf5.ru/search/node/роли
+1 9
 http://sf2.comf5.ru/d7/admin/index
 1 2
 http://sf2.comf5.ru/d7/admin/reports/status
@@ -173,30 +321,122 @@ http://sf2.comf5.ru/d7/admin/config
 1 2
 http://sf2.comf5.ru/phpmyadmin/
 1 13
+http://sf2.comf5.ru/admin/content
+1 6
 http://sf2.comf5.ru/d7/install.php
 1 71
+http://sf2.comf5.ru/authorize.php
+1 32
+http://sf2.comf5.ru/admin/structure
+1 2
+http://sf2.comf5.ru/p.php
+1 2
+http://sf2.comf5.ru/locale/translated
+1 2
+http://sf2.comf5.ru/admin/appearance/settings
+1 5
+http://sf2.comf5.ru/admin
+1 3
+http://sf2.comf5.ru/admin/people/permissions
+1 3
+http://sf2.comf5.ru/admin/reports/updates
+1 1
+http://sf2.comf5.ru/user/1
+1 11
+http://sf2.comf5.ru/admin/reports/updates/update
+1 1
+http://sf2.comf5.ru/user
+1 2
+http://sf2.comf5.ru/admin/structure/types
+1 1
 http://sf2.comf5.ru/phpmyadmin/index.php
 1 6
 http://sf2.comf5.ru/d7/admin
 1 1
 http://sf2.comf5.ru/d7/admin/config/regional/date-time
 1 1
+http://sf2.comf5.ru/admin/people
+1 4
+http://sf2.comf5.ru/admin/config/development/performance
+1 3
+http://sf2.comf5.ru/admin/config/media/file-system
+1 1
 http://sf2.comf5.ru/d7/admin/config/regional/language
 1 3
+http://sf2.comf5.ru/admin/config
+1 16
+http://sf2.comf5.ru/admin/people/permissions/roles/edit/3
+1 2
+http://sf2.comf5.ru/admin/config/development/logging
+1 1
+http://sf2.comf5.ru/admin/modules
+1 41
+http://sf2.comf5.ru/admin/config/people
+1 2
 http://sf2.comf5.ru/d7/admin/config/regional/settings
 1 3
+http://sf2.comf5.ru/node
+1 31
+http://sf2.comf5.ru/admin/config/people/accounts/display
+1 1
+http://sf2.comf5.ru/admin/modules/install
+1 33
+http://sf2.comf5.ru/admin/config/people/accounts
+1 3
+http://sf2.comf5.ru/admin/people/permissions/roles
+1 7
+http://sf2.comf5.ru/
+1 78
+http://sf2.comf5.ru/admin/reports/updates/settings
+1 1
+http://sf2.comf5.ru/admin/config/development/jquery_update
+1 5
 http://sf2.comf5.ru/d7/
 1 5
+http://sf2.comf5.ru/batch
+1 8
+http://sf2.comf5.ru/admin/reports/status
+1 5
+http://sf2.comf5.ru/admin/config/content-views
+1 3
+http://sf2.comf5.ru/admin/appearance/update
+1 3
+http://sf2.comf5.ru/locale
+1 2
 http://sf2.comf5.ru/d7/admin/settings/language
+1 1
+http://sf2.comf5.ru/admin/appearance
+1 21
+http://sf2.comf5.ru/admin/reports
+1 4
+http://sf2.comf5.ru/admin/dashboard
+1 13
+http://sf2.comf5.ru/admin/structure/block
+1 2
+http://sf2.comf5.ru/install.php
+1 90
+http://sf2.comf5.ru/admin/structure/block/manage/system/powered-by/configure
+1 2
+http://sf2.comf5.ru/admin/appearance/settings/bartik
+1 2
+http://sf2.comf5.ru/admin/config/people/accounts/fields
+1 1
+http://sf2.comf5.ru/admin/config/search/search_api
+1 4
+http://sf2.comf5.ru/admin/appearance/settings/bootstrap
+1 153
+http://sf2.comf5.ru/admin/modules/update
 1 1
 # End Of Table - referrers
 # -agents- 
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 2
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 YaBrowser/14.12.2125.10034 Sa
 0 2
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 YaBrowser/14.12.2125.10034 Safari/53
-0 11
+0 385
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
-0 143
+0 434
 Wget/1.12 (linux-gnu)
 0 1
 # End Of Table - agents

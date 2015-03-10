@@ -6,6 +6,8 @@ files/
 sites/*/files
 sites/*/private
 
+/sites
+
 # Ignore default text files
 /CHANGELOG.txt
 /COPYRIGHT.txt
